@@ -4,7 +4,7 @@ E-Farming is a distributed application, developed to provide a simple and easy w
 <h2>Objective:</h2>
 The main objective of this project is building a website which will help farmers to sell their products.It is a computerized approach for better and clear marketing.This web site will provide a simple platform for farmers and customers to trade agricultural products and also guide farmers by providing information about climatic conditions,soil,fertilizers and pesticides so that they can reach maximum profits.
 <h1>Stake holders:</h1>
-*Farmers(Seller)
-*Buyers
-*Agricultural Officer
+*	Farmers(Seller)<br>
+*	Buyers<br>
+*	Agricultural Officer<br>
 
